@@ -2,6 +2,17 @@
     {
         "advert_id": 655565,
         "sum": 300,
-        "query": "пояс на пояс"
+        "query": "пояс на пояс",
+        "min_pos": 2,
+        "max_pos": 5,
+        "comment": "Бла бла бла"
+    },
+    {
+        "advert_id": 655565,
+        "sum": 300,
+        "query": "пояс на пояс",
+        "min_pos": 2,
+        "max_pos": 5,
+        "comment": "Бла бла бла"
     }
 ]
