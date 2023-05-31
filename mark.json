@@ -21,15 +21,7 @@
         "query": "пояс согревающий",
         "min_pos": 5,
         "max_pos": 10,
-        "comment": "рк 2 ключа"
-    },
-    {
-        "advert_id": 6846500,
-        "sum": 150,
-        "query": "согревающий пояс",
-        "min_pos": 5,
-        "max_pos": 10,
-        "comment": "рк 2 ключа"
+        "comment": "рк 2 ключа"   
      },
     {
         "advert_id": 2881144,
