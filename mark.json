@@ -5,7 +5,8 @@
         "query": "пояс согревающий",
         "min_pos": 2,
         "max_pos": 5,
-        "comment": "рк 1 ключ"
+        "comment": "рк 1 ключ",
+        "strategy": 1
     },
     {
         "advert_id": 6846368,
@@ -13,7 +14,8 @@
         "query": "пояс из собачьей шерсти",
         "min_pos": 2,
         "max_pos": 5,
-        "comment": "рк 1 ключ"
+        "comment": "рк 1 ключ",
+        "strategy": 1
      },
     {
         "advert_id": 6846500,
@@ -21,7 +23,8 @@
         "query": "пояс согревающий",
         "min_pos": 5,
         "max_pos": 10,
-        "comment": "рк 2 ключа"   
+        "comment": "рк 2 ключа",
+        "strategy": 2
      },
     {
         "advert_id": 2881144,
@@ -29,6 +32,7 @@
         "query": "пояс для спины согревающий",
         "min_pos": 4,
         "max_pos": 10,
-        "comment": "рк много ключей"
+        "comment": "рк много ключей",
+        "strategy": 2
     }
 ]
