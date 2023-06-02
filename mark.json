@@ -34,5 +34,14 @@
         "max_pos": 10,
         "comment": "рк много ключей",
         "strategy": 2
+      },
+    {
+        "advert_id": 7056882,
+        "sum": 300,
+        "query": "шорты мужские",
+        "min_pos": 3,
+        "max_pos": 10,
+        "comment": "рк много ключей",
+        "strategy": 1
     }
 ]
