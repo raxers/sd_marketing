@@ -34,14 +34,5 @@
         "max_pos": 10,
         "comment": "рк много ключей",
         "strategy": 2
-      },
-    {
-        "advert_id": 7056882,
-        "sum": 400,
-        "query": "шорты мужские летние",
-        "min_pos": 2,
-        "max_pos": 5,
-        "comment": "рк много ключей",
-        "strategy": 1
-    }
+      }
 ]
