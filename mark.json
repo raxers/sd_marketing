@@ -34,5 +34,14 @@
         "max_pos": 10,
         "comment": "рк много ключей",
         "strategy": 2
+       },
+    {
+        "advert_id": 7324107,
+        "sum": 300,
+        "query": "радиостанция",
+        "min_pos": 6,
+        "max_pos": 10,
+        "comment": "рк новая",
+        "strategy": 2
       }
 ]
