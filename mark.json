@@ -43,5 +43,14 @@
         "max_pos": 10,
         "comment": "рк новая",
         "strategy": 2
+       },
+    {
+        "advert_id": 2212759,
+        "sum": 300,
+        "query": "рация",
+        "min_pos": 6,
+        "max_pos": 10,
+        "comment": "рк новая",
+        "strategy": 2
       }
 ]
