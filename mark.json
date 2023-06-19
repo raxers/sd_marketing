@@ -48,9 +48,9 @@
         "advert_id": 2212759,
         "sum": 460,
         "query": "рация",
-        "min_pos": 6,
-        "max_pos": 10,
+        "min_pos": 2,
+        "max_pos": 7,
         "comment": "рк новая",
-        "strategy": 2
+        "strategy": 1
       }
 ]
