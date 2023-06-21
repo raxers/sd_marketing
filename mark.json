@@ -46,11 +46,11 @@
        },
     {
         "advert_id": 7056882,
-        "sum": 700,
+        "sum": 310,
         "query": "шорты мужские пляжные",
-        "min_pos": 1,
-        "max_pos": 7,
+        "min_pos": 8,
+        "max_pos": 15,
         "comment": "рк нт",
-        "strategy": 2
+        "strategy": 1
       }
 ]
