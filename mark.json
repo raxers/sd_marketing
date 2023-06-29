@@ -1,41 +1,5 @@
 [
     {
-        "advert_id": 6846263,
-        "sum": 400,
-        "query": "пояс согревающий",
-        "min_pos": 2,
-        "max_pos": 5,
-        "comment": "рк 1 ключ",
-        "strategy": 1
-    },
-    {
-        "advert_id": 6846368,
-        "sum": 400,
-        "query": "пояс из собачьей шерсти",
-        "min_pos": 2,
-        "max_pos": 5,
-        "comment": "рк 1 ключ",
-        "strategy": 1
-     },
-    {
-        "advert_id": 6846500,
-        "sum": 150,
-        "query": "пояс согревающий",
-        "min_pos": 5,
-        "max_pos": 10,
-        "comment": "рк 2 ключа",
-        "strategy": 2
-     },
-    {
-        "advert_id": 2881144,
-        "sum": 200,
-        "query": "пояс для спины согревающий",
-        "min_pos": 4,
-        "max_pos": 10,
-        "comment": "рк много ключей",
-        "strategy": 2
-       },
-    {
         "advert_id": 7324107,
         "sum": 460,
         "query": "радиостанция",
