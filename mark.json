@@ -8,12 +8,13 @@
         "comment": "рк новая",
         "strategy": 2
        },
-    {
-        "advert_id": 6865570,
+  {
+        "advert_id": 8213354,
         "sum": 360,
+        "query": "антенна для рации",
         "min_pos": 1,
-        "max_pos": 9,
-        "comment": "рк АКСЫ БАОФЕНГ",
+        "max_pos": 3,
+        "comment": "рк новая",
         "strategy": 2
-      }
+       }
 ]
