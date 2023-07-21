@@ -6,15 +6,14 @@
         "min_pos": 6,
         "max_pos": 10,
         "comment": "рк новая",
-        "strategy": 1
+        "strategy": 2
        },
     {
-        "advert_id": 7056882,
-        "sum": 510,
-        "query": "мужские купальные шорты",
+        "advert_id": 6865570,
+        "sum": 210,
         "min_pos": 8,
         "max_pos": 15,
-        "comment": "рк нт",
+        "comment": "рк АКСЫ БАОФЕНГ",
         "strategy": 1
       }
 ]
