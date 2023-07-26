@@ -16,5 +16,14 @@
         "max_pos": 3,
         "comment": "рк новая",
         "strategy": 2
+     },
+  {
+        "advert_id": 6888784,
+        "sum": 460,
+        "query": "мини вентилятор",
+        "min_pos": 3,
+        "max_pos": 10,
+        "comment": "рк 500",
+        "strategy": 2
        }
 ]
