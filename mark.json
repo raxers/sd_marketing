@@ -23,7 +23,16 @@
         "query": "мини вентилятор",
         "min_pos": 3,
         "max_pos": 10,
-        "comment": "рк 500",
+        "comment": "рк 1500",
+        "strategy": 2
+     },
+  {
+        "advert_id": 8194428,
+        "sum": 260,
+        "query": "тв приставка",
+        "min_pos": 3,
+        "max_pos": 10,
+        "comment": "рк 1500",
         "strategy": 2
      }
 ]
