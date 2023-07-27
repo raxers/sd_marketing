@@ -25,14 +25,5 @@
         "max_pos": 10,
         "comment": "рк 500",
         "strategy": 2
-     },
-  {
-        "advert_id": 2123624,
-        "sum": 400,
-        "query": "мясные чипсы",
-        "min_pos": 1,
-        "max_pos": 5,
-        "comment": "рк 2500",
-        "strategy": 1
-       }
+     }
 ]
