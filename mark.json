@@ -25,5 +25,14 @@
         "max_pos": 10,
         "comment": "рк чипсы",
         "strategy": 2
+     },
+  {
+        "advert_id": 7763771,
+        "sum": 400,
+        "query": "швабра с отжимом",
+        "min_pos": 1,
+        "max_pos": 10,
+        "comment": "рк чипсы",
+        "strategy": 2
      }
 ]
