@@ -18,12 +18,12 @@
         "strategy": 2
      },
   {
-        "advert_id": 8194428,
-        "sum": 260,
-        "query": "тв приставка",
-        "min_pos": 3,
+        "advert_id": 8637596,
+        "sum": 400,
+        "query": "вяленое мясо",
+        "min_pos": 1,
         "max_pos": 10,
-        "comment": "рк 1500",
+        "comment": "рк чипсы",
         "strategy": 2
      }
 ]
