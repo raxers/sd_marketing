@@ -1,20 +1,11 @@
 [
     {
         "advert_id": 8213354,
-        "sum": 360,
+        "sum": 260,
         "query": "антенна для рации",
         "min_pos": 1,
         "max_pos": 3,
         "comment": "рк новая",
-        "strategy": 2
-     },
-  {
-        "advert_id": 8637596,
-        "sum": 300,
-        "query": "джерки",
-        "min_pos": 1,
-        "max_pos": 3,
-        "comment": "рк чипсы",
         "strategy": 2
      }
 ]
